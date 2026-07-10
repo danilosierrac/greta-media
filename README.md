@@ -9,8 +9,9 @@ Source of truth: Greta's curated selection on Google Drive
 
 - `media/<campaign-slug>/NN.jpg` — web-optimized images (max 2000px long edge, progressive JPEG q80, all well under the 5MB Framer plan cap)
 - `media/<campaign-slug>/NN.mp4` + `NN-poster.jpg` — compressed videos (H.264, 1080p max, faststart) with poster frames
-- `framer/projects.csv` — the campaigns collection (import FIRST)
-- `framer/media.csv` — the media collection (`Title,Slug,Image,Video,alt,Order,Project,Type`); `Project` references campaigns by slug
+- `framer/projects.csv` — the campaigns collection (import FIRST): `Title,Slug,Client,Description,Credits,Order`. `Description` = one micro-blurb per project (shown in the lightbox via the reference); `Credits` = markdown for a Formatted Text field (Hogan filled, rest empty). Drafted copy — Greta approves/edits in the CMS.
+- `framer/media.csv` — the media collection: `Title,Slug,Image,Video,alt,Order,Project,Client,Type`. `Project` references campaigns by slug. `Client` is denormalized from the project (auto-filled by `scripts/csv.mjs` from `scripts/projects-meta.json`) because Framer's native filters can't reach through references — this powers the clickable brand filter.
+- Edit per-project copy in `scripts/projects-meta.json`, then `node scripts/csv.mjs` to regenerate both CSVs from `manifest.json` (no media reprocessing).
 - `manifest.json` — full build record incl. source paths and failures
 - `scripts/build.mjs` — the pipeline; incremental, safe to re-run (`node scripts/build.mjs`)
 

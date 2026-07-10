@@ -25,8 +25,6 @@ import sharp from 'sharp';
 const SRC = "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando ";
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const OUT = path.join(ROOT, 'media');
-const RAW_BASE = 'https://raw.githubusercontent.com/danilosierrac/greta-media/main/media';
-
 const IMG_EXT = new Set(['.jpg', '.jpeg', '.png']);
 const VID_EXT = new Set(['.mp4', '.mov']);
 const MAX_EDGE = 2000;
@@ -180,34 +178,7 @@ for (const c of campaigns) {
 
 // ---------- CSVs ----------
 
-const csvEscape = (s) => `"${String(s).replace(/"/g, '""')}"`;
-const encodePath = (p) => p.split('/').map(encodeURIComponent).join('/');
-
-const titleBySlug = Object.fromEntries(campaigns.map((c) => [c.slug, c.title]));
-
-const projectsCsv = ['Title,Slug,Client,Order'];
-for (const c of campaigns) {
-  if (!manifest.some((m) => m.campaign === c.slug)) continue;
-  projectsCsv.push([csvEscape(c.title), c.slug, 'Zalando', c.order].join(','));
-}
-fs.writeFileSync(path.join(ROOT, 'framer', 'projects.csv'), projectsCsv.join('\n') + '\n');
-
-const mediaCsv = ['Title,Slug,Image,Video,alt,Order,Project,Type'];
-for (const m of manifest) {
-  const nn = String(m.order).padStart(2, '0');
-  mediaCsv.push([
-    csvEscape(`${titleBySlug[m.campaign]} ${nn}`),
-    `${m.campaign}-${nn}`,
-    `${RAW_BASE}/${encodePath(m.image)}`,
-    m.video ? `${RAW_BASE}/${encodePath(m.video)}` : '',
-    csvEscape(m.alt),
-    m.order,
-    m.campaign,
-    m.type,
-  ].join(','));
-}
-fs.writeFileSync(path.join(ROOT, 'framer', 'media.csv'), mediaCsv.join('\n') + '\n');
 fs.writeFileSync(path.join(ROOT, 'manifest.json'), JSON.stringify({ campaigns, items: manifest, failures }, null, 2));
-
-console.log(`\n${manifest.length} items → framer/media.csv · ${projectsCsv.length - 1} projects → framer/projects.csv`);
+const { writeCsvs } = await import('./csv.mjs');
+writeCsvs({ campaigns, items: manifest });
 if (failures.length) console.log(`⚠️  ${failures.length} failures — see manifest.json`);
