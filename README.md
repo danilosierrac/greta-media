@@ -18,7 +18,7 @@ Source of truth: Greta's curated selection on Google Drive
 ## Import order & rules
 
 1. Import `framer/projects.csv` into the Projects/Campaigns collection.
-2. Import `framer/media.csv` into the media collection — map `Image` (image field), `Video` (link field), `Project` (reference, matched by slug).
+2. Import `framer/media.csv` into the media collection — map `Image` (image field), `Video` (plain text field holding the URL — a Link field can't be read as a variable in Framer), `Project` (reference, matched by slug).
 3. Framer **rehosts images** to framerusercontent.com during import → this repo is a loading dock for images.
 4. Video links are **NOT rehosted** — the raw GitHub URLs must stay alive (or be swapped to R2/Bunny/native upload after the plan upgrade).
 5. **Never re-import old rows.** Framer matches by slug and overwrites, destroying CMS edits. Future syncs = delta CSVs with new slugs only.
