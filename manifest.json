@@ -1,0 +1,3248 @@
+{
+  "campaigns": [
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack ",
+      "folder": "01- adidas Originals Country OG Well-Aged Pack ",
+      "order": 1,
+      "title": "adidas Originals Country OG Well-Aged Pack",
+      "slug": "adidas-originals-country-og-well-aged-pack"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2",
+      "folder": "02 - Nike ACG 2",
+      "order": 2,
+      "title": "Nike ACG 2",
+      "slug": "nike-acg-2"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring",
+      "folder": "03- Streetwear & Tailoring",
+      "order": 3,
+      "title": "Streetwear & Tailoring",
+      "slug": "streetwear-and-tailoring"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon",
+      "folder": "04 - New Balance London Marathon",
+      "order": 4,
+      "title": "New Balance London Marathon",
+      "slug": "new-balance-london-marathon"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE ",
+      "folder": "05 - The North Face HKE ",
+      "order": 5,
+      "title": "The North Face HKE",
+      "slug": "the-north-face-hke"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2",
+      "folder": "06 - Adidas Exclusive CCA Drop 2",
+      "order": 6,
+      "title": "Adidas Exclusive CCA Drop 2",
+      "slug": "adidas-exclusive-cca-drop-2"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3",
+      "folder": "07 - Nike ACG 3",
+      "order": 7,
+      "title": "Nike ACG 3",
+      "slug": "nike-acg-3"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style",
+      "folder": "08 -  Boss-up your style",
+      "order": 8,
+      "title": "Boss-up your style",
+      "slug": "boss-up-your-style"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /09 - Asics Gel-Quantum 360 AMP",
+      "folder": "09 - Asics Gel-Quantum 360 AMP",
+      "order": 9,
+      "title": "Asics Gel-Quantum 360 AMP",
+      "slug": "asics-gel-quantum-360-amp"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks ",
+      "folder": "10 - Winter skincare hacks ",
+      "order": 10,
+      "title": "Winter skincare hacks",
+      "slug": "winter-skincare-hacks"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness",
+      "folder": "11 - 194. Drip: New Year fitness wellness",
+      "order": 11,
+      "title": "194. Drip: New Year fitness wellness",
+      "slug": "194-drip-new-year-fitness-wellness"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear",
+      "folder": "11 - Adidas Culture Wear",
+      "order": 11,
+      "title": "Adidas Culture Wear",
+      "slug": "adidas-culture-wear"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori",
+      "folder": "12 -  adidas x hermanos koumori",
+      "order": 12,
+      "title": "adidas x hermanos koumori",
+      "slug": "adidas-x-hermanos-koumori"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China",
+      "folder": "13 - adidas CCA China",
+      "order": 13,
+      "title": "adidas CCA China",
+      "slug": "adidas-cca-china"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)",
+      "folder": "15 - Sneaker rotation (franchise)",
+      "order": 15,
+      "title": "Sneaker rotation (franchise)",
+      "slug": "sneaker-rotation-franchise"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch",
+      "folder": "16 - Hogan brand launch",
+      "order": 16,
+      "title": "Hogan brand launch",
+      "slug": "hogan-brand-launch"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)",
+      "folder": "17 - If you like this, you'll love  (Jeans)",
+      "order": 17,
+      "title": "If you like this, you'll love (Jeans)",
+      "slug": "if-you-like-this-you-ll-love-jeans"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket",
+      "folder": "18 -7 days 1 faux fur jacket",
+      "order": 18,
+      "title": "7 days 1 faux fur jacket",
+      "slug": "7-days-1-faux-fur-jacket"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg",
+      "folder": "19 - Lacoste lengleg",
+      "order": 19,
+      "title": "Lacoste lengleg",
+      "slug": "lacoste-lengleg"
+    },
+    {
+      "dir": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /20 - 66 North",
+      "folder": "20 - 66 North",
+      "order": 20,
+      "title": "66 North",
+      "slug": "66-north"
+    }
+  ],
+  "items": [
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 1,
+      "image": "adidas-originals-country-og-well-aged-pack/01.jpg",
+      "video": "",
+      "alt": "Adidas Article Media Image 4x5 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Article_Media Image_4x5_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 2,
+      "image": "adidas-originals-country-og-well-aged-pack/02.jpg",
+      "video": "",
+      "alt": "Adidas Article Media Image 4x5 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Article_Media Image_4x5_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 3,
+      "image": "adidas-originals-country-og-well-aged-pack/03.jpg",
+      "video": "",
+      "alt": "Adidas Article Media Image 4x5 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Article_Media Image_4x5_Desktop&Mobile_04.jpg"
+    },
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 4,
+      "image": "adidas-originals-country-og-well-aged-pack/04.jpg",
+      "video": "",
+      "alt": "Adidas Article Media Image 4x5 Desktop&Mobile 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Article_Media Image_4x5_Desktop&Mobile_05.jpg"
+    },
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 5,
+      "image": "adidas-originals-country-og-well-aged-pack/05.jpg",
+      "video": "",
+      "alt": "Adidas Article Media Image 5x4 Desktop 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Article_Media Image_5x4_Desktop_02.jpg"
+    },
+    {
+      "campaign": "adidas-originals-country-og-well-aged-pack",
+      "type": "Image",
+      "order": 6,
+      "image": "adidas-originals-country-og-well-aged-pack/06.jpg",
+      "video": "",
+      "alt": "Adidas Entry Point 3x2 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /01- adidas Originals Country OG Well-Aged Pack /Adidas_Entry Point_3x2_01.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Video",
+      "order": 1,
+      "image": "nike-acg-2/01-poster.jpg",
+      "video": "nike-acg-2/01.mp4",
+      "alt": "DROP NIKE-ACG LANDING-PAGE 1920X1280 500MB",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/DROP_NIKE-ACG_LANDING-PAGE_1920X1280_500MB.mp4"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Video",
+      "order": 2,
+      "image": "nike-acg-2/02-poster.jpg",
+      "video": "nike-acg-2/02.mp4",
+      "alt": "DROP NIKE-ACG SHORTS 9X16 100MB",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/DROP_NIKE-ACG_SHORTS_9X16_100MB.mp4"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 3,
+      "image": "nike-acg-2/03.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Entry point 2x3 V1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Entry point_2x3_V1.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 4,
+      "image": "nike-acg-2/04.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 5,
+      "image": "nike-acg-2/05.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_1.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 6,
+      "image": "nike-acg-2/06.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_2.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 7,
+      "image": "nike-acg-2/07.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 3-1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_3-1.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 8,
+      "image": "nike-acg-2/08.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_3.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 9,
+      "image": "nike-acg-2/09.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_4.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 10,
+      "image": "nike-acg-2/10.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_5.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 11,
+      "image": "nike-acg-2/11.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_6.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 12,
+      "image": "nike-acg-2/12.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Desktop&Mobile 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Desktop&Mobile_7.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 13,
+      "image": "nike-acg-2/13.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Mobile 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Mobile_1.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 14,
+      "image": "nike-acg-2/14.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 2x3 Mobile 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_2x3_Mobile_2.jpg"
+    },
+    {
+      "campaign": "nike-acg-2",
+      "type": "Image",
+      "order": 15,
+      "image": "nike-acg-2/15.jpg",
+      "video": "",
+      "alt": "Nike ACG 2 Media Image 3x2 Desktop 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /02 - Nike ACG 2/Nike ACG 2_Media Image_3x2_Desktop_1.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 1,
+      "image": "streetwear-and-tailoring/01.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 2,
+      "image": "streetwear-and-tailoring/02.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Media Image 2x3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Media Image_2x3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 3,
+      "image": "streetwear-and-tailoring/03.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Media Image 2x3 Desktop&Mobile 06",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Media Image_2x3_Desktop&Mobile_06.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 4,
+      "image": "streetwear-and-tailoring/04.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Media Image 2x3 Desktop&Mobile 07",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Media Image_2x3_Desktop&Mobile_07.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 5,
+      "image": "streetwear-and-tailoring/05.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Media Image 2x3 Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Media Image_2x3_Mobile_03.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Video",
+      "order": 6,
+      "image": "streetwear-and-tailoring/06-poster.jpg",
+      "video": "streetwear-and-tailoring/06.mp4",
+      "alt": "Streetwear & Tailoring Article Video 2x3 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Video_2x3_Desktop&Mobile_01.mp4"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Video",
+      "order": 7,
+      "image": "streetwear-and-tailoring/07-poster.jpg",
+      "video": "streetwear-and-tailoring/07.mp4",
+      "alt": "Streetwear & Tailoring Article Video 2x3 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Video_2x3_Desktop&Mobile_04.mp4"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 8,
+      "image": "streetwear-and-tailoring/08.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Article Video 2x3 Desktop&Mobile 04 Thumbnail",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Article_Video_2x3_Desktop&Mobile_04_Thumbnail.jpg"
+    },
+    {
+      "campaign": "streetwear-and-tailoring",
+      "type": "Image",
+      "order": 9,
+      "image": "streetwear-and-tailoring/09.jpg",
+      "video": "",
+      "alt": "Streetwear & Tailoring Entry Point 1x1 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /03- Streetwear & Tailoring/Streetwear & Tailoring_Entry Point_1x1_2.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 1,
+      "image": "new-balance-london-marathon/01.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 2,
+      "image": "new-balance-london-marathon/02.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 3,
+      "image": "new-balance-london-marathon/03.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 4,
+      "image": "new-balance-london-marathon/04.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_04.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 5,
+      "image": "new-balance-london-marathon/05.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_05.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 6,
+      "image": "new-balance-london-marathon/06.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 06",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_06.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 7,
+      "image": "new-balance-london-marathon/07.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 07",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_07.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 8,
+      "image": "new-balance-london-marathon/08.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Image 2x3 Desktop&Mobile 08",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Image_2x3_Desktop&Mobile_08.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 9,
+      "image": "new-balance-london-marathon/09.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Video 2x3 Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Video_2x3_Mobile.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 10,
+      "image": "new-balance-london-marathon/10.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Media Video 3x2 Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Media Video_3x2_Desktop.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 11,
+      "image": "new-balance-london-marathon/11.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Article Product Highlight-Image",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Article_Product Highlight-Image.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 12,
+      "image": "new-balance-london-marathon/12.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Entry Point 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Entry Point_2x3.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 13,
+      "image": "new-balance-london-marathon/13.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Short Article Entry Point 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Short_Article Entry Point_05.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 14,
+      "image": "new-balance-london-marathon/14.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Short Cover slide 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Short_Cover slide_01.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 15,
+      "image": "new-balance-london-marathon/15.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Short Media + Copy 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Short_Media + Copy_03.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 16,
+      "image": "new-balance-london-marathon/16.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Short Media Video 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Short_Media Video_02.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Image",
+      "order": 17,
+      "image": "new-balance-london-marathon/17.jpg",
+      "video": "",
+      "alt": "New Balance London Marathon Short Product Media 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New Balance London Marathon_Short_Product Media_04.jpg"
+    },
+    {
+      "campaign": "new-balance-london-marathon",
+      "type": "Video",
+      "order": 18,
+      "image": "new-balance-london-marathon/18-poster.jpg",
+      "video": "new-balance-london-marathon/18.mp4",
+      "alt": "New version mai video 2 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /04 - New Balance London Marathon/New version_mai video_2_3.mp4"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Video",
+      "order": 1,
+      "image": "the-north-face-hke/01-poster.jpg",
+      "video": "the-north-face-hke/01.mp4",
+      "alt": "THENORTHFACE HKE JACKETHOOD 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /THENORTHFACE_HKE_JACKETHOOD_2x3.mp4"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Video",
+      "order": 2,
+      "image": "the-north-face-hke/02-poster.jpg",
+      "video": "the-north-face-hke/02.mp4",
+      "alt": "THENORTHFACE HKE JACKET 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /THENORTHFACE_HKE_JACKET_2x3.mp4"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Video",
+      "order": 3,
+      "image": "the-north-face-hke/03-poster.jpg",
+      "video": "the-north-face-hke/03.mp4",
+      "alt": "THENORTHFACE HKE SHOES 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /THENORTHFACE_HKE_SHOES_2x3.mp4"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Video",
+      "order": 4,
+      "image": "the-north-face-hke/04-poster.jpg",
+      "video": "the-north-face-hke/04.mp4",
+      "alt": "THENORTHFACE HKE TROUSERS 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /THENORTHFACE_HKE_TROUSERS_2x3.mp4"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 5,
+      "image": "the-north-face-hke/05.jpg",
+      "video": "",
+      "alt": "The North Face HKe Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 6,
+      "image": "the-north-face-hke/06.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_1.png"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 7,
+      "image": "the-north-face-hke/07.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_3.png"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 8,
+      "image": "the-north-face-hke/08.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_4.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 9,
+      "image": "the-north-face-hke/09.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_6.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 10,
+      "image": "the-north-face-hke/10.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_7.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 11,
+      "image": "the-north-face-hke/11.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Image 2x3 9",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Image_2x3_9.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 12,
+      "image": "the-north-face-hke/12.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Video 2x3 Thumbnail 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Video_2x3_Thumbnail_10.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 13,
+      "image": "the-north-face-hke/13.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Video 2x3 Thumbnail 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Video_2x3_Thumbnail_2.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 14,
+      "image": "the-north-face-hke/14.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Video 2x3 Thumbnail 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Video_2x3_Thumbnail_5.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 15,
+      "image": "the-north-face-hke/15.jpg",
+      "video": "",
+      "alt": "The North Face HKe Media Video 2x3 Thumbnail 8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The North Face HKe_Media Video_2x3_Thumbnail_8.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 16,
+      "image": "the-north-face-hke/16.jpg",
+      "video": "",
+      "alt": "The North Face HKE Article Entry Point 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The_North_Face_HKE Article Entry Point_6.png"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 17,
+      "image": "the-north-face-hke/17.jpg",
+      "video": "",
+      "alt": "The North Face HKE Entry point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The_North_Face_HKE Entry point_3x2.jpg"
+    },
+    {
+      "campaign": "the-north-face-hke",
+      "type": "Image",
+      "order": 18,
+      "image": "the-north-face-hke/18.jpg",
+      "video": "",
+      "alt": "The North Face HKE Short Product + Media 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /05 - The North Face HKE /The_North_Face_HKE Short_Product + Media_01.png"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 1,
+      "image": "adidas-exclusive-cca-drop-2/01.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 2,
+      "image": "adidas-exclusive-cca-drop-2/02.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 3,
+      "image": "adidas-exclusive-cca-drop-2/03.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 4,
+      "image": "adidas-exclusive-cca-drop-2/04.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 5,
+      "image": "adidas-exclusive-cca-drop-2/05.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_04.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 6,
+      "image": "adidas-exclusive-cca-drop-2/06.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_05.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 7,
+      "image": "adidas-exclusive-cca-drop-2/07.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 06",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_06.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 8,
+      "image": "adidas-exclusive-cca-drop-2/08.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 07",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_07.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 9,
+      "image": "adidas-exclusive-cca-drop-2/09.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 08",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_08.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 10,
+      "image": "adidas-exclusive-cca-drop-2/10.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 09",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_09.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 11,
+      "image": "adidas-exclusive-cca-drop-2/11.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Image 2x3 Desktop&Mobile 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Image_2x3_Desktop&Mobile_10.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 12,
+      "image": "adidas-exclusive-cca-drop-2/12.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Article Media Video 16x9 (Desktop)",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Article_Media Video_16x9 (Desktop).jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 13,
+      "image": "adidas-exclusive-cca-drop-2/13.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Entry Point 2x3 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Entry Point_2x3_1.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 14,
+      "image": "adidas-exclusive-cca-drop-2/14.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Entry Point 2x3 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Entry Point_2x3_2.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 15,
+      "image": "adidas-exclusive-cca-drop-2/15.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Entry Point 3x2 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Entry Point_3x2_1.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 16,
+      "image": "adidas-exclusive-cca-drop-2/16.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Entry Point 3x2 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Entry Point_3x2_2.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 17,
+      "image": "adidas-exclusive-cca-drop-2/17.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Short Media Video 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Short_Media Video_02.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Image",
+      "order": 18,
+      "image": "adidas-exclusive-cca-drop-2/18.jpg",
+      "video": "",
+      "alt": "Adidas Exclusive CCA Short Product & Media 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/Adidas Exclusive CCA_Short_Product & Media_04.jpg"
+    },
+    {
+      "campaign": "adidas-exclusive-cca-drop-2",
+      "type": "Video",
+      "order": 19,
+      "image": "adidas-exclusive-cca-drop-2/19-poster.jpg",
+      "video": "adidas-exclusive-cca-drop-2/19.mp4",
+      "alt": "TS DROP ADIDAS CCA 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /06 - Adidas Exclusive CCA Drop 2/TS_DROP_ADIDAS_CCA_2.mp4"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Video",
+      "order": 1,
+      "image": "nike-acg-3/01-poster.jpg",
+      "video": "nike-acg-3/01.mp4",
+      "alt": "Copy of TS NIKE ACG3 MAY FINAL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Copy of TS_NIKE_ACG3_MAY_FINAL.mp4"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 2,
+      "image": "nike-acg-3/02.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Entry point 2x3 V2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Entry point_2x3_V2.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 3,
+      "image": "nike-acg-3/03.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 4,
+      "image": "nike-acg-3/04.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_1.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 5,
+      "image": "nike-acg-3/05.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_10.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 6,
+      "image": "nike-acg-3/06.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 11",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_11.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 7,
+      "image": "nike-acg-3/07.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 12",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_12.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 8,
+      "image": "nike-acg-3/08.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_2.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 9,
+      "image": "nike-acg-3/09.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_3.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 10,
+      "image": "nike-acg-3/10.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_4.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 11,
+      "image": "nike-acg-3/11.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_5.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 12,
+      "image": "nike-acg-3/12.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_6.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 13,
+      "image": "nike-acg-3/13.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_7.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 14,
+      "image": "nike-acg-3/14.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_8.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 15,
+      "image": "nike-acg-3/15.jpg",
+      "video": "",
+      "alt": "Nike-ACG3 Media Image 2x3 Desktop&Mobile 9",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike-ACG3_Media Image_2x3_Desktop&Mobile_9.jpg"
+    },
+    {
+      "campaign": "nike-acg-3",
+      "type": "Image",
+      "order": 16,
+      "image": "nike-acg-3/16.jpg",
+      "video": "",
+      "alt": "Nike ACG3 Media Video-Thumbnail 16 9 Mobile 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /07 - Nike ACG 3/Nike_ACG3_Media Video-Thumbnail_16_9_Mobile_1.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 1,
+      "image": "boss-up-your-style/01.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 01 160 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_01_160_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 2,
+      "image": "boss-up-your-style/02.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 01 256 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_01_256_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 3,
+      "image": "boss-up-your-style/03.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 02 639 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_02_639_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 4,
+      "image": "boss-up-your-style/04.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 02 683 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_02_683_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 5,
+      "image": "boss-up-your-style/05.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 1008 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_1008_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 6,
+      "image": "boss-up-your-style/06.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 1046 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_1046_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 7,
+      "image": "boss-up-your-style/07.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 1056 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_1056_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 8,
+      "image": "boss-up-your-style/08.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 1075 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_1075_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 9,
+      "image": "boss-up-your-style/09.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 1106 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_1106_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 10,
+      "image": "boss-up-your-style/10.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 03 992 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_03_992_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 11,
+      "image": "boss-up-your-style/11.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 04 1204 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_04_1204_RET.jpg"
+    },
+    {
+      "campaign": "boss-up-your-style",
+      "type": "Image",
+      "order": 12,
+      "image": "boss-up-your-style/12.jpg",
+      "video": "",
+      "alt": "20250821 Zalando BossUpYourStyle 04 1389 RET",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /08 -  Boss-up your style/20250821_Zalando_BossUpYourStyle_04_1389_RET.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 1,
+      "image": "winter-skincare-hacks/01.jpg",
+      "video": "",
+      "alt": "Article Entry Point 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Article Entry Point_6.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 2,
+      "image": "winter-skincare-hacks/02.jpg",
+      "video": "",
+      "alt": "Entry point 2x3 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Entry point_2x3_01.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 3,
+      "image": "winter-skincare-hacks/03.jpg",
+      "video": "",
+      "alt": "Media Image 2 3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Media Image_2_3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 4,
+      "image": "winter-skincare-hacks/04.jpg",
+      "video": "",
+      "alt": "Media+Product Only 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Media+Product Only_3.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 5,
+      "image": "winter-skincare-hacks/05.jpg",
+      "video": "",
+      "alt": "Media+Product Only 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Media+Product Only_4.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 6,
+      "image": "winter-skincare-hacks/06.jpg",
+      "video": "",
+      "alt": "Short Cover slide 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /Short_Cover slide_1.jpg"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Video",
+      "order": 7,
+      "image": "winter-skincare-hacks/07-poster.jpg",
+      "video": "winter-skincare-hacks/07.mp4",
+      "alt": "WINTER SKINCARE EVENING LP 1920x2400",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /WINTER_SKINCARE_EVENING_LP_1920x2400.mp4"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Video",
+      "order": 8,
+      "image": "winter-skincare-hacks/08-poster.jpg",
+      "video": "winter-skincare-hacks/08.mp4",
+      "alt": "WINTER SKINCARE MORNING LP 1920x2400",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /WINTER_SKINCARE_MORNING_LP_1920x2400.mp4"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Video",
+      "order": 9,
+      "image": "winter-skincare-hacks/09-poster.jpg",
+      "video": "winter-skincare-hacks/09.mp4",
+      "alt": "WINTER SKINCARE SHORT 1080x1920",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /WINTER_SKINCARE_SHORT_1080x1920.mp4"
+    },
+    {
+      "campaign": "winter-skincare-hacks",
+      "type": "Image",
+      "order": 10,
+      "image": "winter-skincare-hacks/10.jpg",
+      "video": "",
+      "alt": "WINTER SKINCARE SHORT 1080x1920 THUMBANIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /10 - Winter skincare hacks /WINTER_SKINCARE_SHORT_1080x1920_THUMBANIL.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 1,
+      "image": "194-drip-new-year-fitness-wellness/01.jpg",
+      "video": "",
+      "alt": "Article Entry Point 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Article_Entry_Point_6.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 2,
+      "image": "194-drip-new-year-fitness-wellness/02.jpg",
+      "video": "",
+      "alt": "Entry point 2x3 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Entry_point_2x3_01.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 3,
+      "image": "194-drip-new-year-fitness-wellness/03.jpg",
+      "video": "",
+      "alt": "Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Header_Image_Desktop.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 4,
+      "image": "194-drip-new-year-fitness-wellness/04.jpg",
+      "video": "",
+      "alt": "Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Header_Image_Mobile.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 5,
+      "image": "194-drip-new-year-fitness-wellness/05.jpg",
+      "video": "",
+      "alt": "Media mage 2x3 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media _mage_2x3_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 6,
+      "image": "194-drip-new-year-fitness-wellness/06.jpg",
+      "video": "",
+      "alt": "Media mage 2x3 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media _mage_2x3_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 7,
+      "image": "194-drip-new-year-fitness-wellness/07.jpg",
+      "video": "",
+      "alt": "Media Image 2x3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media_Image_2x3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 8,
+      "image": "194-drip-new-year-fitness-wellness/08.jpg",
+      "video": "",
+      "alt": "Media Image 2x3 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media_Image_2x3_Desktop&Mobile_04.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 9,
+      "image": "194-drip-new-year-fitness-wellness/09.jpg",
+      "video": "",
+      "alt": "Media Image 2x3 Desktop&Mobile 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media_Image_2x3_Desktop&Mobile_05.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 10,
+      "image": "194-drip-new-year-fitness-wellness/10.jpg",
+      "video": "",
+      "alt": "Media Text 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Media_Text_2.jpg"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Video",
+      "order": 11,
+      "image": "194-drip-new-year-fitness-wellness/11-poster.jpg",
+      "video": "194-drip-new-year-fitness-wellness/11.mp4",
+      "alt": "New Year Fitness Wellness Short Media Only 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/New Year Fitness_Wellness_Short_Media Only_2.mp4"
+    },
+    {
+      "campaign": "194-drip-new-year-fitness-wellness",
+      "type": "Image",
+      "order": 12,
+      "image": "194-drip-new-year-fitness-wellness/12.jpg",
+      "video": "",
+      "alt": "Short Cover slide 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - 194. Drip: New Year fitness wellness/Short_Cover_slide_1.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Video",
+      "order": 1,
+      "image": "adidas-culture-wear/01-poster.jpg",
+      "video": "adidas-culture-wear/01.mp4",
+      "alt": "Calling the Shots WIP2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Calling_the_Shots_WIP2.mp4"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 2,
+      "image": "adidas-culture-wear/02.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Entry Point 2x3 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Entry Points/Adidas Culture Wear_Entry Point_2x3_01.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 3,
+      "image": "adidas-culture-wear/03.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Entry Point 3x2 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Entry Points/Adidas Culture Wear_Entry Point_3x2_01.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Video",
+      "order": 4,
+      "image": "adidas-culture-wear/04-poster.jpg",
+      "video": "adidas-culture-wear/04.mp4",
+      "alt": "Game Changer WIP5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Game_Changer_WIP5.mp4"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 5,
+      "image": "adidas-culture-wear/05.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Article Brand Bio",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Landing Page/Brand Bio/Adidas Culture Wear_Article_Brand Bio.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 6,
+      "image": "adidas-culture-wear/06.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Article Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Landing Page/Header Image/Adidas Culture Wear_Article_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 7,
+      "image": "adidas-culture-wear/07.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Article Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Landing Page/Header Image/Adidas Culture Wear_Article_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Video",
+      "order": 8,
+      "image": "adidas-culture-wear/08-poster.jpg",
+      "video": "adidas-culture-wear/08.mp4",
+      "alt": "Ready for Extra Time WIP4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Ready_for_Extra_Time_WIP4.mp4"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 9,
+      "image": "adidas-culture-wear/09.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Product Media Video",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Shorts/Adidas Culture Wear_Product Media_Video.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 10,
+      "image": "adidas-culture-wear/10.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Short Article Entry Point 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Shorts/Adidas Culture Wear_Short_Article Entry Point_01.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 11,
+      "image": "adidas-culture-wear/11.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear Short Cover slide 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Shorts/Adidas Culture Wear_Short_Cover slide_01.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Video",
+      "order": 12,
+      "image": "adidas-culture-wear/12-poster.jpg",
+      "video": "adidas-culture-wear/12.mp4",
+      "alt": "Shorts WIP8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Shorts_WIP8.mp4"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Video",
+      "order": 13,
+      "image": "adidas-culture-wear/13-poster.jpg",
+      "video": "adidas-culture-wear/13.mp4",
+      "alt": "Starting Line-Up WIP3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Starting Line-Up_WIP3.mp4"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 14,
+      "image": "adidas-culture-wear/14.jpg",
+      "video": "",
+      "alt": "Calling the Shots Thumbnail",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Videos/Thumbnails/Calling_the_Shots_Thumbnail.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 15,
+      "image": "adidas-culture-wear/15.jpg",
+      "video": "",
+      "alt": "Game Changer Thumbnail",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Videos/Thumbnails/Game_Changer_Thumbnail.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 16,
+      "image": "adidas-culture-wear/16.jpg",
+      "video": "",
+      "alt": "Ready for Extra Time Thumbnail",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Videos/Thumbnails/Ready_for_Extra_Time_Thumbnail.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 17,
+      "image": "adidas-culture-wear/17.jpg",
+      "video": "",
+      "alt": "Starting Line-Up Thumbnail",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/05. Final Assets 21/Videos/Thumbnails/Starting Line-Up_Thumbnail.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 18,
+      "image": "adidas-culture-wear/18.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 1 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_1_1.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 19,
+      "image": "adidas-culture-wear/19.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 1 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_1_2.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 20,
+      "image": "adidas-culture-wear/20.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 1 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_1_3.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 21,
+      "image": "adidas-culture-wear/21.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 1 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_1_4.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 22,
+      "image": "adidas-culture-wear/22.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 2 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_2_1.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 23,
+      "image": "adidas-culture-wear/23.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 2 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_2_2.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 24,
+      "image": "adidas-culture-wear/24.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 2 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_2_3.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 25,
+      "image": "adidas-culture-wear/25.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 3 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_3_1.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 26,
+      "image": "adidas-culture-wear/26.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 3 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_3_2.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 27,
+      "image": "adidas-culture-wear/27.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 3 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_3_3.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 28,
+      "image": "adidas-culture-wear/28.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 4 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_4_1.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 29,
+      "image": "adidas-culture-wear/29.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 4 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_4_2.jpg"
+    },
+    {
+      "campaign": "adidas-culture-wear",
+      "type": "Image",
+      "order": 30,
+      "image": "adidas-culture-wear/30.jpg",
+      "video": "",
+      "alt": "Adidas Culture Wear 2x3 4 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /11 - Adidas Culture Wear/Adidas Culture Wear_2x3_4_3.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 1,
+      "image": "adidas-x-hermanos-koumori/01.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Brand Bio",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Landing Page/Brand Bio/adidas x Hermanos Koumori_Brand Bio.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 2,
+      "image": "adidas-x-hermanos-koumori/02.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Landing Page/Header Image/adidas x Hermanos Koumori_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 3,
+      "image": "adidas-x-hermanos-koumori/03.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Landing Page/Header Image/adidas x Hermanos Koumori_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 4,
+      "image": "adidas-x-hermanos-koumori/04-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/04.mp4",
+      "alt": "Header 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/Header 2x3.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 5,
+      "image": "adidas-x-hermanos-koumori/05-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/05.mp4",
+      "alt": "Header 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/Header 3x2.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 6,
+      "image": "adidas-x-hermanos-koumori/06-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/06.mp4",
+      "alt": "Shorts",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/Shorts.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 7,
+      "image": "adidas-x-hermanos-koumori/07-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/07.mp4",
+      "alt": "HEADER 2x3 - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/mov/HEADER 2x3 - GRADED.mov"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 8,
+      "image": "adidas-x-hermanos-koumori/08-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/08.mp4",
+      "alt": "HEADER 3x2 - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/mov/HEADER 3x2 - GRADED.mov"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 9,
+      "image": "adidas-x-hermanos-koumori/09-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/09.mp4",
+      "alt": "SHORTS - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Correct videos for Header/mov/SHORTS - GRADED.mov"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 10,
+      "image": "adidas-x-hermanos-koumori/10-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/10.mp4",
+      "alt": "SHORTS - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/05. Final Assets 13/Videos/Shorts Video/SHORTS - GRADED.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 11,
+      "image": "adidas-x-hermanos-koumori/11-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/11.mp4",
+      "alt": "ADIDASxHERMANOS LP ADRENALINE CHASER - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/ADIDASxHERMANOS_LP_ADRENALINE CHASER - GRADED.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 12,
+      "image": "adidas-x-hermanos-koumori/12-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/12.mp4",
+      "alt": "ADIDASxHERMANOS LP RUN CLUB LOVER",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/ADIDASxHERMANOS_LP_RUN CLUB LOVER.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Video",
+      "order": 13,
+      "image": "adidas-x-hermanos-koumori/13-poster.jpg",
+      "video": "adidas-x-hermanos-koumori/13.mp4",
+      "alt": "ADIDASxHERMANOS LP SOLO FUN RUNNER - GRADED",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/ADIDASxHERMANOS_LP_SOLO FUN RUNNER - GRADED.mp4"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 14,
+      "image": "adidas-x-hermanos-koumori/14.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Entry Point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Entry Point_3x2.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 15,
+      "image": "adidas-x-hermanos-koumori/15.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_1.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 16,
+      "image": "adidas-x-hermanos-koumori/16.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 11",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_11.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 17,
+      "image": "adidas-x-hermanos-koumori/17.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 12",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_12.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 18,
+      "image": "adidas-x-hermanos-koumori/18.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_3.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 19,
+      "image": "adidas-x-hermanos-koumori/19.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_4.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 20,
+      "image": "adidas-x-hermanos-koumori/20.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_5.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 21,
+      "image": "adidas-x-hermanos-koumori/21.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_7.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 22,
+      "image": "adidas-x-hermanos-koumori/22.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_8.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 23,
+      "image": "adidas-x-hermanos-koumori/23.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Image 2x3 9",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Image_2x3_9.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 24,
+      "image": "adidas-x-hermanos-koumori/24.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Video 2x3 Thumbnail 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Video_2x3_Thumbnail_10.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 25,
+      "image": "adidas-x-hermanos-koumori/25.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Video 2x3 Thumbnail 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Video_2x3_Thumbnail_2.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 26,
+      "image": "adidas-x-hermanos-koumori/26.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Media Video 2x3 Thumbnail 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Media Video_2x3_Thumbnail_6.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 27,
+      "image": "adidas-x-hermanos-koumori/27.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Short Article Entry Point 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Short_Article Entry Point_5.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 28,
+      "image": "adidas-x-hermanos-koumori/28.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Short Product + Media 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Short_Product + Media_3.jpg"
+    },
+    {
+      "campaign": "adidas-x-hermanos-koumori",
+      "type": "Image",
+      "order": 29,
+      "image": "adidas-x-hermanos-koumori/29.jpg",
+      "video": "",
+      "alt": "adidas x Hermanos Koumori Short Product + Media 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /12 -  adidas x hermanos koumori/adidas x Hermanos Koumori_Short_Product + Media_4.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 1,
+      "image": "adidas-cca-china/01.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Entry Point 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Entry Point/DROP_ADIDAS_CCA_CHINA_APRIL_Entry Point_2x3.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 2,
+      "image": "adidas-cca-china/02.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Entry Point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Entry Point/DROP_ADIDAS_CCA_CHINA_APRIL_Entry Point_3x2.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 3,
+      "image": "adidas-cca-china/03.jpg",
+      "video": "",
+      "alt": "Adidas Adizero Dropset Elite Brand Bio",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Landing Page/Brand Bio/Adidas Adizero Dropset Elite_Brand Bio.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 4,
+      "image": "adidas-cca-china/04.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Landing Page/Header Image/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 5,
+      "image": "adidas-cca-china/05.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Landing Page/Header Image/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Video",
+      "order": 6,
+      "image": "adidas-cca-china/06-poster.jpg",
+      "video": "adidas-cca-china/06.mp4",
+      "alt": "DROP ADIDAS CCA APRIL FEED 9X16",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_APRIL_FEED_9X16.mp4"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 7,
+      "image": "adidas-cca-china/07.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA APRIL FEED 9X16 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_APRIL_FEED_9X16_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Video",
+      "order": 8,
+      "image": "adidas-cca-china/08-poster.jpg",
+      "video": "adidas-cca-china/08.mp4",
+      "alt": "DROP ADIDAS CCA APRIL SHORTS 9X16",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_APRIL_SHORTS_9X16.mp4"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Video",
+      "order": 9,
+      "image": "adidas-cca-china/09-poster.jpg",
+      "video": "adidas-cca-china/09.mp4",
+      "alt": "DROP ADIDAS CCA APRIL SHORTS 9X16 FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_APRIL_SHORTS_9X16_FR.mp4"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 10,
+      "image": "adidas-cca-china/10.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA APRIL SHORTS 9X16 FR THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_APRIL_SHORTS_9X16_FR_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 11,
+      "image": "adidas-cca-china/11.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Short Article Entry Point 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_CHINA_APRIL_Short_Article Entry Point_05.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 12,
+      "image": "adidas-cca-china/12.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Short Cover slide Video 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_CHINA_APRIL_Short_Cover slide Video_01.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 13,
+      "image": "adidas-cca-china/13.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Short Media Video 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_CHINA_APRIL_Short_Media Video_02.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 14,
+      "image": "adidas-cca-china/14.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Short Product & Media 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_CHINA_APRIL_Short_Product & Media_03.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 15,
+      "image": "adidas-cca-china/15.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Short Product & Media 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/05. Final Assets 17/Shorts-Feed/DROP_ADIDAS_CCA_CHINA_APRIL_Short_Product & Media_04.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Video",
+      "order": 16,
+      "image": "adidas-cca-china/16-poster.jpg",
+      "video": "adidas-cca-china/16.mp4",
+      "alt": "DROP ADIDAS CCA APRIL HEADER 2X3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_APRIL_HEADER_2X3.mp4"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Video",
+      "order": 17,
+      "image": "adidas-cca-china/17-poster.jpg",
+      "video": "adidas-cca-china/17.mp4",
+      "alt": "DROP ADIDAS CCA APRIL HEADER 3X2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_APRIL_HEADER_3X2.mp4"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 18,
+      "image": "adidas-cca-china/18.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA APRIL HEADER 3X2 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_APRIL_HEADER_3X2_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 19,
+      "image": "adidas-cca-china/19.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 2x3 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_2x3_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 20,
+      "image": "adidas-cca-china/20.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 2x3 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_2x3_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 21,
+      "image": "adidas-cca-china/21.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 2x3 Desktop&Mobile 06",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_2x3_Desktop&Mobile_06.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 22,
+      "image": "adidas-cca-china/22.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 2x3 Desktop&Mobile 07",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_2x3_Desktop&Mobile_07.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 23,
+      "image": "adidas-cca-china/23.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 2x3 Desktop&Mobile 08",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_2x3_Desktop&Mobile_08.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 24,
+      "image": "adidas-cca-china/24.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 3x2 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_3x2_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 25,
+      "image": "adidas-cca-china/25.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 3x2 Desktop&Mobile 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_3x2_Desktop&Mobile_04.jpg"
+    },
+    {
+      "campaign": "adidas-cca-china",
+      "type": "Image",
+      "order": 26,
+      "image": "adidas-cca-china/26.jpg",
+      "video": "",
+      "alt": "DROP ADIDAS CCA CHINA APRIL Article Media Image 3x2 Desktop&Mobile 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /13 - adidas CCA China/DROP_ADIDAS_CCA_CHINA_APRIL_Article_Media Image_3x2_Desktop&Mobile_05.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 1,
+      "image": "sneaker-rotation-franchise/01.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Entry Point 2x3 EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Entry Point/Sneaker Rotation_March_Entry Point_2x3_EN.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 2,
+      "image": "sneaker-rotation-franchise/02.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Entry Point 2x3 FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Entry Point/Sneaker Rotation_March_Entry Point_2x3_FR.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 3,
+      "image": "sneaker-rotation-franchise/03.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Entry Point 3x2 EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Entry Point/Sneaker Rotation_March_Entry Point_3x2_EN.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 4,
+      "image": "sneaker-rotation-franchise/04.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Entry Point 3x2 FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Entry Point/Sneaker Rotation_March_Entry Point_3x2_FR.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 5,
+      "image": "sneaker-rotation-franchise/05.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Header Image Desktop EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Header Image/Sneaker Rotation_March_Header Image_Desktop_EN.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 6,
+      "image": "sneaker-rotation-franchise/06.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Header Image Desktop FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Header Image/Sneaker Rotation_March_Header Image_Desktop_FR.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 7,
+      "image": "sneaker-rotation-franchise/07.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Header Image Mobile EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Header Image/Sneaker Rotation_March_Header Image_Mobile_EN.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 8,
+      "image": "sneaker-rotation-franchise/08.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Header Image Mobile FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Header Image/Sneaker Rotation_March_Header Image_Mobile_FR.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Video",
+      "order": 9,
+      "image": "sneaker-rotation-franchise/09-poster.jpg",
+      "video": "sneaker-rotation-franchise/09.mp4",
+      "alt": "SNEAKER ROTATION FEB LP FR 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Media Video/SNEAKER_ROTATION_FEB_LP_FR_2x3.mp4"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 10,
+      "image": "sneaker-rotation-franchise/10.jpg",
+      "video": "",
+      "alt": "SNEAKER ROTATION FEB LP FR 2x3 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Media Video/SNEAKER_ROTATION_FEB_LP_FR_2x3_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 11,
+      "image": "sneaker-rotation-franchise/11.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Product Highlight 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Product Highlight/Sneaker Rotation_March_Product Highlight_1.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 12,
+      "image": "sneaker-rotation-franchise/12.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Product Highlight 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Product Highlight/Sneaker Rotation_March_Product Highlight_2.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 13,
+      "image": "sneaker-rotation-franchise/13.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Product Highlight 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Landing Page/Product Highlight/Sneaker Rotation_March_Product Highlight_3.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Video",
+      "order": 14,
+      "image": "sneaker-rotation-franchise/14-poster.jpg",
+      "video": "sneaker-rotation-franchise/14.mp4",
+      "alt": "SNEAKER ROTATION MARCH SHORT EN 9x16",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/SNEAKER_ROTATION_MARCH_SHORT_EN_9x16.mp4"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 15,
+      "image": "sneaker-rotation-franchise/15.jpg",
+      "video": "",
+      "alt": "SNEAKER ROTATION MARCH SHORT EN 9x16 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/SNEAKER_ROTATION_MARCH_SHORT_EN_9x16_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Video",
+      "order": 16,
+      "image": "sneaker-rotation-franchise/16-poster.jpg",
+      "video": "sneaker-rotation-franchise/16.mp4",
+      "alt": "SNEAKER ROTATION MARCH SHORT FR 9x16",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/SNEAKER_ROTATION_MARCH_SHORT_FR_9x16.mp4"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 17,
+      "image": "sneaker-rotation-franchise/17.jpg",
+      "video": "",
+      "alt": "SNEAKER ROTATION MARCH SHORT FR 9x16 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/SNEAKER_ROTATION_MARCH_SHORT_FR_9x16_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 18,
+      "image": "sneaker-rotation-franchise/18.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Article Entry Point 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Article Entry Point_6.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 19,
+      "image": "sneaker-rotation-franchise/19.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Cover Slide EN 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Cover Slide_EN_1.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 20,
+      "image": "sneaker-rotation-franchise/20.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Cover Slide FR 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Cover Slide_FR_1.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 21,
+      "image": "sneaker-rotation-franchise/21.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Media+Products 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Media+Products_3.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 22,
+      "image": "sneaker-rotation-franchise/22.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Media+Products 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Media+Products_4.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 23,
+      "image": "sneaker-rotation-franchise/23.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Media+Products 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Media+Products_5.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 24,
+      "image": "sneaker-rotation-franchise/24.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Shorts Media-Only 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Shorts/Sneaker Rotation_March_Shorts_Media-Only_2.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 25,
+      "image": "sneaker-rotation-franchise/25.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Showstopper Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Showstopper/Sneaker Rotation_March_Showstopper_Desktop.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 26,
+      "image": "sneaker-rotation-franchise/26.jpg",
+      "video": "",
+      "alt": "Sneaker Rotation March Showstopper Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/04. Final Assets/Showstopper/Sneaker Rotation_March_Showstopper_Mobile.jpg"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Video",
+      "order": 27,
+      "image": "sneaker-rotation-franchise/27-poster.jpg",
+      "video": "sneaker-rotation-franchise/27.mp4",
+      "alt": "SNEAKER ROTATION FEB LP EN 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/SNEAKER_ROTATION_FEB_LP_EN_2x3.mp4"
+    },
+    {
+      "campaign": "sneaker-rotation-franchise",
+      "type": "Image",
+      "order": 28,
+      "image": "sneaker-rotation-franchise/28.jpg",
+      "video": "",
+      "alt": "SNEAKER ROTATION FEB LP EN 2x3 THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /15 - Sneaker rotation (franchise)/SNEAKER_ROTATION_FEB_LP_EN_2x3_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 1,
+      "image": "hogan-brand-launch/01.jpg",
+      "video": "",
+      "alt": "Hogan Entry Point 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Entry Point/Hogan_Entry Point_2x3.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 2,
+      "image": "hogan-brand-launch/02.jpg",
+      "video": "",
+      "alt": "Hogan Entry Point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Entry Point/Hogan_Entry Point_3x2.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 3,
+      "image": "hogan-brand-launch/03-poster.jpg",
+      "video": "hogan-brand-launch/03.mp4",
+      "alt": "260330 HOGAN CLOE - journaling EN 005",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/EN/260330_HOGAN_CLOE - journaling_EN_005.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 4,
+      "image": "hogan-brand-launch/04-poster.jpg",
+      "video": "hogan-brand-launch/04.mp4",
+      "alt": "260331 HOGAN Edith - leggere EN 007",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/EN/260331_HOGAN_Edith - leggere_EN_007.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 5,
+      "image": "hogan-brand-launch/05-poster.jpg",
+      "video": "hogan-brand-launch/05.mp4",
+      "alt": "260331 HOGAN LORENZO scacchi EN 006",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/EN/260331_HOGAN_LORENZO_scacchi_EN_006.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 6,
+      "image": "hogan-brand-launch/06-poster.jpg",
+      "video": "hogan-brand-launch/06.mp4",
+      "alt": "260330 HOGAN CLOE - journalingFR 005",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/FR/260330_HOGAN_CLOE - journalingFR_005.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 7,
+      "image": "hogan-brand-launch/07-poster.jpg",
+      "video": "hogan-brand-launch/07.mp4",
+      "alt": "260331 HOGAN Edith - leggere FR 007",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/FR/260331_HOGAN_Edith - leggere_FR_007.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 8,
+      "image": "hogan-brand-launch/08-poster.jpg",
+      "video": "hogan-brand-launch/08.mp4",
+      "alt": "260331 HOGAN LORENZO scacchi FR 006",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/FR/260331_HOGAN_LORENZO_scacchi_FR_006.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 9,
+      "image": "hogan-brand-launch/09-poster.jpg",
+      "video": "hogan-brand-launch/09.mp4",
+      "alt": "260330 HOGAN CLOE - journaling IT 005",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/IT/260330_HOGAN_CLOE - journaling_IT_005.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 10,
+      "image": "hogan-brand-launch/10-poster.jpg",
+      "video": "hogan-brand-launch/10.mp4",
+      "alt": "260331 HOGAN Edith - leggere IT 007",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/IT/260331_HOGAN_Edith - leggere_IT_007.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 11,
+      "image": "hogan-brand-launch/11-poster.jpg",
+      "video": "hogan-brand-launch/11.mp4",
+      "alt": "260331 HOGAN LORENZO scacchi IT 006",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/IT/260331_HOGAN_LORENZO_scacchi_IT_006.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Video",
+      "order": 12,
+      "image": "hogan-brand-launch/12-poster.jpg",
+      "video": "hogan-brand-launch/12.mp4",
+      "alt": "SHORTS - 260401 HOGAN 10sec 001",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Final Videos/SHORTS - 260401_HOGAN_10sec_001.mp4"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 13,
+      "image": "hogan-brand-launch/13.jpg",
+      "video": "",
+      "alt": "Hogan Article Brand Bio Image 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Landing Page/Brand Bio/Hogan_Article_Brand Bio_Image 1.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 14,
+      "image": "hogan-brand-launch/14.jpg",
+      "video": "",
+      "alt": "Hogan Short Article Entry Point 05",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Shorts/Hogan_Short_Article Entry Point_05.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 15,
+      "image": "hogan-brand-launch/15.jpg",
+      "video": "",
+      "alt": "Thumbnail Chess 1920x2400",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Thumbnails/Thumbnail_Chess_1920x2400.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 16,
+      "image": "hogan-brand-launch/16.jpg",
+      "video": "",
+      "alt": "Thumbnail Journaling 1920x2400",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Thumbnails/Thumbnail_Journaling_1920x2400.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 17,
+      "image": "hogan-brand-launch/17.jpg",
+      "video": "",
+      "alt": "Thumbnail Reading 1920x2400",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Thumbnails/Thumbnail_Reading_1920x2400.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 18,
+      "image": "hogan-brand-launch/18.jpg",
+      "video": "",
+      "alt": "Thumbnail Short 1080x1920",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/05. Final Assets 16/Thumbnails/Thumbnail_Short_1080x1920.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 19,
+      "image": "hogan-brand-launch/19.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 2x3 Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_2x3_Mobile_01.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 20,
+      "image": "hogan-brand-launch/20.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 2x3 Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_2x3_Mobile_02.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 21,
+      "image": "hogan-brand-launch/21.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 2x3 Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_2x3_Mobile_03.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 22,
+      "image": "hogan-brand-launch/22.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 4x5 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_4x5_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 23,
+      "image": "hogan-brand-launch/23.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 4x5 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_4x5_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 24,
+      "image": "hogan-brand-launch/24.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Image 4x5 Desktop&Mobile 03",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Image_4x5_Desktop&Mobile_03.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 25,
+      "image": "hogan-brand-launch/25.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Video 4x5 Desktop&Mobile 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Video_4x5_Desktop&Mobile_01.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 26,
+      "image": "hogan-brand-launch/26.jpg",
+      "video": "",
+      "alt": "Hogan Article Media Video 4x5 Desktop&Mobile 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Article_Media Video_4x5_Desktop&Mobile_02.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 27,
+      "image": "hogan-brand-launch/27.jpg",
+      "video": "",
+      "alt": "Hogan Short Cover Slide 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Short_Cover Slide_01.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 28,
+      "image": "hogan-brand-launch/28.jpg",
+      "video": "",
+      "alt": "Hogan Short Media & Copy 02",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Short_Media & Copy_02.jpg"
+    },
+    {
+      "campaign": "hogan-brand-launch",
+      "type": "Image",
+      "order": 29,
+      "image": "hogan-brand-launch/29.jpg",
+      "video": "",
+      "alt": "Hogan Short Product Media 04",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /16 - Hogan brand launch/Hogan_Short_Product Media_04.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 1,
+      "image": "if-you-like-this-you-ll-love-jeans/01.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Entry point 2x3 EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Entry Point/IYLT-Jeans_Entry point_2x3_EN.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 2,
+      "image": "if-you-like-this-you-ll-love-jeans/02.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Entry point 2x3 FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Entry Point/IYLT-Jeans_Entry point_2x3_FR.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 3,
+      "image": "if-you-like-this-you-ll-love-jeans/03.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Entry point 3x2 EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Entry Point/IYLT-Jeans_Entry point_3x2_EN.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 4,
+      "image": "if-you-like-this-you-ll-love-jeans/04.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Entry point 3x2 FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Entry Point/IYLT-Jeans_Entry point_3x2_FR.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 5,
+      "image": "if-you-like-this-you-ll-love-jeans/05.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 EN 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_EN_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 6,
+      "image": "if-you-like-this-you-ll-love-jeans/06.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 EN 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_EN_2.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 7,
+      "image": "if-you-like-this-you-ll-love-jeans/07.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 EN 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_EN_3.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 8,
+      "image": "if-you-like-this-you-ll-love-jeans/08.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 FR 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_FR_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 9,
+      "image": "if-you-like-this-you-ll-love-jeans/09.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 FR 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_FR_2.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 10,
+      "image": "if-you-like-this-you-ll-love-jeans/10.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 2x3 FR 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_2x3_FR_3.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 11,
+      "image": "if-you-like-this-you-ll-love-jeans/11.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 EN 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_EN_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 12,
+      "image": "if-you-like-this-you-ll-love-jeans/12.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 EN 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_EN_2.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 13,
+      "image": "if-you-like-this-you-ll-love-jeans/13.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 EN 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_EN_3.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 14,
+      "image": "if-you-like-this-you-ll-love-jeans/14.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 FR 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_FR_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 15,
+      "image": "if-you-like-this-you-ll-love-jeans/15.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 FR 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_FR_2.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 16,
+      "image": "if-you-like-this-you-ll-love-jeans/16.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Media Image 3x2 FR 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Landing Page/Media Image/IYLT-Jeans_Media Image_3x2_FR_3.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 17,
+      "image": "if-you-like-this-you-ll-love-jeans/17.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Article Entry Point EN 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Article Entry Point_EN_5.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 18,
+      "image": "if-you-like-this-you-ll-love-jeans/18.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Article Entry Point FR 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Article Entry Point_FR_5.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 19,
+      "image": "if-you-like-this-you-ll-love-jeans/19.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Cover Slide EN 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Cover Slide_EN_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 20,
+      "image": "if-you-like-this-you-ll-love-jeans/20.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Cover Slide FR 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Cover Slide_FR_1.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 21,
+      "image": "if-you-like-this-you-ll-love-jeans/21.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Product + Media 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Product + Media_2.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 22,
+      "image": "if-you-like-this-you-ll-love-jeans/22.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Product + Media 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Product + Media_3.jpg"
+    },
+    {
+      "campaign": "if-you-like-this-you-ll-love-jeans",
+      "type": "Image",
+      "order": 23,
+      "image": "if-you-like-this-you-ll-love-jeans/23.jpg",
+      "video": "",
+      "alt": "IYLT-Jeans Shorts Product + Media 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /17 - If you like this, you'll love  (Jeans)/04. Final Assets 2/Shorts/IYLT-Jeans_Shorts_Product + Media_4.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 1,
+      "image": "7-days-1-faux-fur-jacket/01.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Entry Point 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Entry Point/7 Days, 1 Faux Fur Jacket_Entry Point_2x3.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 2,
+      "image": "7-days-1-faux-fur-jacket/02.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Entry Point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Entry Point/7 Days, 1 Faux Fur Jacket_Entry Point_3x2.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 3,
+      "image": "7-days-1-faux-fur-jacket/03.jpg",
+      "video": "",
+      "alt": "7 days 1 faux fur jacket Entry point 2x3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Entry Point/Entry point/7 days_1 faux fur jacket_Entry point_2x3.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 4,
+      "image": "7-days-1-faux-fur-jacket/04.jpg",
+      "video": "",
+      "alt": "7 days 1 faux fur jacket Entry point 3x2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Entry Point/Entry point/7 days_1 faux fur jacket_Entry point_3x2.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 5,
+      "image": "7-days-1-faux-fur-jacket/05-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/05.mp4",
+      "alt": "7DAYS,1FAUXFURJACKET FEED EN",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Feed /7DAYS,1FAUXFURJACKET_FEED_EN.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 6,
+      "image": "7-days-1-faux-fur-jacket/06-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/06.mp4",
+      "alt": "7DAYS,1FAUXFURJACKET FEED FR",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Feed /7DAYS,1FAUXFURJACKET_FEED_FR.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 7,
+      "image": "7-days-1-faux-fur-jacket/07.jpg",
+      "video": "",
+      "alt": "7DAYS,1FAUXFURJACKET SHORTS FEED EN THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Feed /7DAYS,1FAUXFURJACKET_SHORTS_FEED_EN_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 8,
+      "image": "7-days-1-faux-fur-jacket/08.jpg",
+      "video": "",
+      "alt": "7DAYS,1FAUXFURJACKET SHORTS FEED FR THUMBNAIL",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Feed /7DAYS,1FAUXFURJACKET_SHORTS_FEED_FR_THUMBNAIL.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 9,
+      "image": "7-days-1-faux-fur-jacket/09.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Header Image Desktop",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Landing Page/Header Image/7 Days, 1 Faux Fur Jacket_Header Image_Desktop.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 10,
+      "image": "7-days-1-faux-fur-jacket/10.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Header Image Mobile",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Landing Page/Header Image/7 Days, 1 Faux Fur Jacket_Header Image_Mobile.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 11,
+      "image": "7-days-1-faux-fur-jacket/11.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Shorts Article Entry Point 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 Days, 1 Faux Fur Jacket_Shorts_Article Entry Point_4.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 12,
+      "image": "7-days-1-faux-fur-jacket/12.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Shorts Cover Slide 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 Days, 1 Faux Fur Jacket_Shorts_Cover Slide_1.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 13,
+      "image": "7-days-1-faux-fur-jacket/13.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Shorts Media Only EN 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 Days, 1 Faux Fur Jacket_Shorts_Media Only_EN_2.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 14,
+      "image": "7-days-1-faux-fur-jacket/14.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Shorts Media Only FR 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 Days, 1 Faux Fur Jacket_Shorts_Media Only_FR_2.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 15,
+      "image": "7-days-1-faux-fur-jacket/15.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Shorts Product + Media 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 Days, 1 Faux Fur Jacket_Shorts_Product + Media_3.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 16,
+      "image": "7-days-1-faux-fur-jacket/16.jpg",
+      "video": "",
+      "alt": "7 days 1 faux fur jacket Short Article Entry Point 01",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 days_1 faux fur jacket_Short_Article Entry Point_01.png"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 18,
+      "image": "7-days-1-faux-fur-jacket/18.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_10.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 19,
+      "image": "7-days-1-faux-fur-jacket/19-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/19.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 10",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_10.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 20,
+      "image": "7-days-1-faux-fur-jacket/20.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 11",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_11.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 21,
+      "image": "7-days-1-faux-fur-jacket/21-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/21.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 11",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_11.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 22,
+      "image": "7-days-1-faux-fur-jacket/22.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 14",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_14.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 23,
+      "image": "7-days-1-faux-fur-jacket/23-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/23.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 14",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_14.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 24,
+      "image": "7-days-1-faux-fur-jacket/24.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_2.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 25,
+      "image": "7-days-1-faux-fur-jacket/25-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/25.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_2.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 26,
+      "image": "7-days-1-faux-fur-jacket/26.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_3.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 27,
+      "image": "7-days-1-faux-fur-jacket/27-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/27.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 3",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_3.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 28,
+      "image": "7-days-1-faux-fur-jacket/28.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_6.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 29,
+      "image": "7-days-1-faux-fur-jacket/29-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/29.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_6.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 30,
+      "image": "7-days-1-faux-fur-jacket/30.jpg",
+      "video": "",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_7.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Video",
+      "order": 31,
+      "image": "7-days-1-faux-fur-jacket/31-poster.jpg",
+      "video": "7-days-1-faux-fur-jacket/31.mp4",
+      "alt": "7 DAYS, 1 FAUX FUR JACKET MEDIA VIDEO 2X3 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 DAYS, 1 FAUX FUR JACKET_MEDIA VIDEO_2X3_7.mp4"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 32,
+      "image": "7-days-1-faux-fur-jacket/32.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_1.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 33,
+      "image": "7-days-1-faux-fur-jacket/33.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 12",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_12.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 34,
+      "image": "7-days-1-faux-fur-jacket/34.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 13",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_13.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 35,
+      "image": "7-days-1-faux-fur-jacket/35.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_4.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 36,
+      "image": "7-days-1-faux-fur-jacket/36.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 5",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_5.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 37,
+      "image": "7-days-1-faux-fur-jacket/37.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_8.jpg"
+    },
+    {
+      "campaign": "7-days-1-faux-fur-jacket",
+      "type": "Image",
+      "order": 38,
+      "image": "7-days-1-faux-fur-jacket/38.jpg",
+      "video": "",
+      "alt": "7 Days, 1 Faux Fur Jacket Media Image 2x3 9",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/7 Days, 1 Faux Fur Jacket_Media Image_2x3_9.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 1,
+      "image": "lacoste-lengleg/01.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Entry point 2x3 V1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Entry point_2x3_V1.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 2,
+      "image": "lacoste-lengleg/02.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 2x3 Desktop&Mobile 1",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_2x3_Desktop&Mobile 1.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 3,
+      "image": "lacoste-lengleg/03.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 2x3 Desktop&Mobile 2",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_2x3_Desktop&Mobile 2.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 4,
+      "image": "lacoste-lengleg/04.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 2x3 Desktop&Mobile 6",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_2x3_Desktop&Mobile 6.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 5,
+      "image": "lacoste-lengleg/05.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 2x3 Desktop&Mobile 7",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_2x3_Desktop&Mobile 7.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 6,
+      "image": "lacoste-lengleg/06.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 2x3 Desktop&Mobile 8",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_2x3_Desktop&Mobile 8.jpg"
+    },
+    {
+      "campaign": "lacoste-lengleg",
+      "type": "Image",
+      "order": 7,
+      "image": "lacoste-lengleg/07.jpg",
+      "video": "",
+      "alt": "Lacoste Lenglen Bag Media Image 3x2 Desktop 4",
+      "source": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /19 - Lacoste lengleg/Lacoste Lenglen Bag_Media Image_3x2_Desktop 4.jpg"
+    }
+  ],
+  "failures": [
+    {
+      "file": "/Users/danilosierra/Library/CloudStorage/GoogleDrive-danilo@mimosaagency.com/Shared drives/mimosa GmbH/Accounts and Projects/Greta's portfolio/Zalando /18 -7 days 1 faux fur jacket/05. Final Assets 15/Shorts/7 days_1 faux fur jacket_Short_Cover slide_01.1.jpg",
+      "error": "Input file contains unsupported image format"
+    }
+  ]
+}
