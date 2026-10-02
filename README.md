@@ -23,6 +23,27 @@ Source of truth: Greta's curated selection on Google Drive
 4. Video links are **NOT rehosted** — the raw GitHub URLs must stay alive (or be swapped to R2/Bunny/native upload after the plan upgrade).
 5. **Never re-import old rows.** Framer matches by slug and overwrites, destroying CMS edits. Future syncs = delta CSVs with new slugs only.
 
+## Video hosting plan (decided 2026-07-11)
+
+**Target: Framer-native hosting.** Vimeo is out — the Plus plan doesn't expose direct
+.mp4 file links via API (`files[]` empty; confirmed empirically — Pro-and-up feature),
+and embeds are unwanted. GitHub raw URLs are the working bridge until then.
+
+When Greta's Framer plan is upgraded (file cap lifts above 5MB):
+
+1. Upload the 58 compressed videos from `media/<campaign>/NN.mp4` (all ≤49MB, web-ready
+   H.264 + faststart — no reprocessing needed) into Framer assets/CMS.
+2. Replace the `Video` URLs in the CMS with the framerusercontent URLs.
+   Preferably via CSV: put the new URLs in `scripts/framer-video-links.json` (slug → URL),
+   wire it into `scripts/csv.mjs`, re-import a media.csv delta — BUT only if no manual
+   CMS edits would be overwritten; otherwise paste them in the CMS by hand.
+3. Posters stay as-is (already Framer-hosted images).
+4. Retire the GitHub raw video URLs; repo becomes pure archive/source.
+5. Delete the one unlisted Vimeo test upload ("Nike ACG 2 01", /videos/1209005830).
+
+`scripts/vimeo.mjs` stays in the repo in case the Vimeo tier ever changes — it's
+state-tracked (scripts/vimeo-map.json) and resumable.
+
 ## Known source quirks
 
 - Folder `09 - Asics Gel-Quantum 360 AMP` and `20- 66 North` were empty at build time.
